@@ -7,7 +7,17 @@
 body {
     background-color: #d9dcd6;
 }
+/* move to follow HTML */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* move to follow HTML */
+p {
+    font-size: 16px;
+}
 
+/* HEADER STYLES */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +33,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 /* change div to nav */
 .header nav {
     padding-top: 15px;
@@ -41,11 +52,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* HERO STYLES */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,15 +61,12 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* CONTENT STYLES */
 /* move to improve flow */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-/* move to improve flow */
-p {
-    font-size: 16px;
 }
 /* move to improve flow */
 /* group similar classes together */
@@ -96,6 +100,7 @@ p {
     margin-left: 25px;
 }
 
+/* BENEFITS STYLES */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,23 +111,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* group similar classes together */
+/* consolidate selectors */
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* group similar classes together */
+/* consolidate selectors */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* group similar classes together */
+/* consolidate selectors */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* FOOTER STYLES */
 .footer {
     padding: 30px;
     clear: both;
