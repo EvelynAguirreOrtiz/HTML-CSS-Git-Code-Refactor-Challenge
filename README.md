@@ -1,6 +1,8 @@
 # Horiseon Website
 ## Code Refactor Challenge
 
+! [Horiseon-Refactor] (./assets/images/Horiseon-screenshot.png)
+
 ### Purpose
 
  To refactor a website for the marketing agency Horiseon. One of the links was not working and there were no accessible alt tags. The code did not have semantic HTML tags and there were also some coding typos.
