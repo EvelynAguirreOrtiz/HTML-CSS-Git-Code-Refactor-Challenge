@@ -19,3 +19,5 @@
 ### Website
 
 https://evelynaguirreortiz.github.io/Horiseon-Website-Refactor-Challenge/
+
+![](assets/images/horiseon-screenshot.png)
