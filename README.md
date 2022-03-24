@@ -18,6 +18,6 @@
 
 ### Website
 
-https://evelynaguirreortiz.github.io/Horiseon-Website-Refactor-Challenge/
+https://evelynaguirreortiz.github.io/horiseon-website-refactor-challenge-utsa-bc-02-2022/
 
 ![](assets/images/horiseon-screenshot.png)
